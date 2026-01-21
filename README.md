@@ -65,9 +65,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 Here are some visualizations from the project:
 
-![alt text](Marketing%20Department%20Png/heatmap.png)
-![alt text](Marketing%20Department%20Png/plt%20figure.png)
-![alt text](Marketing%20Department%20Png/scatter.png)
+![Heatmap](./Marketing%20Department%20Png/heatmap.png)
+![Figure](./Marketing%20Department%20Png/plt%20figure.png)
+![Scatter](./Marketing%20Department%20Png/scatter.png)
 
 ## 🛠️ Technologies Used
 
@@ -82,6 +82,7 @@ Here are some visualizations from the project:
 - **Advanced Predictive Models**: Implement more complex models to improve prediction accuracy of customer responses.
 - **Real-time Data Integration**: Incorporate real-time data to make dynamic marketing decisions.
 - **Dashboard Development**: Create interactive dashboards to visualize customer segments and campaign performance.
+
 
 
 
