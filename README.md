@@ -25,11 +25,6 @@ The dataset, `Marketing_data.csv`, includes information pertinent to marketing c
 - **Purchase History**: Record of past purchases made by the customer.
 - **Campaign Response**: Customer's response to previous marketing campaigns.
 
-```bash
-git clone https://github.com/27abhishek27/Marketing_Department_Project.git
-cd Marketing_Department_Project
-```
-
 ### 2️⃣ Install dependencies:
 
 Ensure you have the following Python packages installed:
@@ -70,9 +65,9 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 Here are some visualizations from the project:
 
- ![alt text](heatmap.png)
-![alt text](plt%20figure.png)
-![alt text](scatter.png)
+![alt text](Marketing%20Department%20Png/heatmap.png)
+![alt text](Marketing%20Department%20Png/plt%20figure.png)
+![alt text](Marketing%20Department%20Png/scatter.png)
 
 ## 🛠️ Technologies Used
 
@@ -87,5 +82,6 @@ Here are some visualizations from the project:
 - **Advanced Predictive Models**: Implement more complex models to improve prediction accuracy of customer responses.
 - **Real-time Data Integration**: Incorporate real-time data to make dynamic marketing decisions.
 - **Dashboard Development**: Create interactive dashboards to visualize customer segments and campaign performance.
+
 
 
