@@ -77,7 +77,6 @@ Direct Link: [Download PLT Figure](<./Marketing%20Department%20Project%20Png/plt
 Direct Link: [Download Scatter Plot](<./Marketing%20Department%20Project%20Png/scatter.png>)
 ![Scatter Plot](Marketing%20Department%20Project%20Png/scatter.png)
 
-[Download Link](<./Marketing%20Department%20Project%20Png/download_4.png>)
 
 ## 🛠️ Technologies Used
 
@@ -92,6 +91,7 @@ Direct Link: [Download Scatter Plot](<./Marketing%20Department%20Project%20Png/s
 - **Advanced Predictive Models**: Implement more complex models to improve prediction accuracy of customer responses.
 - **Real-time Data Integration**: Incorporate real-time data to make dynamic marketing decisions.
 - **Dashboard Development**: Create interactive dashboards to visualize customer segments and campaign performance.
+
 
 
 
