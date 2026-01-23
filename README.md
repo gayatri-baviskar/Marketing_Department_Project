@@ -69,13 +69,13 @@ Here are some visualizations from the project:
 Direct Link: [Download Heatmap](<./Marketing%20Department%20Project%20Png/heatmap.png>)
 ![Heatmap](Marketing%20Department%20Project%20Png/heatmap.png)
 
-### 2. Customer Segmentation (Scatter Plot)
-Direct Link: [Download Scatter Plot](<./Marketing%20Department%20Project%20Png/scatter.png>)
-![Scatter Plot](Marketing%20Department%20Project%20Png/scatter.png)
-
-### 3. General Marketing Trends
+### 2. General Marketing Trends (PLT Figure)
 Direct Link: [Download PLT Figure](<./Marketing%20Department%20Project%20Png/plt%20figure.png>)
 ![PLT Figure](Marketing%20Department%20Project%20Png/plt%20figure.png)
+
+### 3. Customer Segmentation (Scatter Plot)
+Direct Link: [Download Scatter Plot](<./Marketing%20Department%20Project%20Png/scatter.png>)
+![Scatter Plot](Marketing%20Department%20Project%20Png/scatter.png)
 
 [Download Link](<./Marketing%20Department%20Project%20Png/download_4.png>)
 
@@ -92,6 +92,7 @@ Direct Link: [Download PLT Figure](<./Marketing%20Department%20Project%20Png/plt
 - **Advanced Predictive Models**: Implement more complex models to improve prediction accuracy of customer responses.
 - **Real-time Data Integration**: Incorporate real-time data to make dynamic marketing decisions.
 - **Dashboard Development**: Create interactive dashboards to visualize customer segments and campaign performance.
+
 
 
 
