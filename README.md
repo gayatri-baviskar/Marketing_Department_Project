@@ -65,9 +65,28 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 Here are some visualizations from the project:
 
-![Heatmap](./Marketing%20Department%20Png/heatmap.png)
-![Figure](./Marketing%20Department%20Png/plt%20figure.png)
-![Scatter](./Marketing%20Department%20Png/scatter.png)
+### 1. Correlation Heatmap
+Direct Link: [Download Heatmap](<./Marketing%20Department%20Project%20Png/heatmap.png>)
+![Heatmap](Marketing%20Department%20Project%20Png/heatmap.png)
+
+### 2. Customer Segmentation (Scatter Plot)
+Direct Link: [Download Scatter Plot](<./Marketing%20Department%20Project%20Png/scatter.png>)
+![Scatter Plot](Marketing%20Department%20Project%20Png/scatter.png)
+
+### 3. General Marketing Trends
+Direct Link: [Download PLT Figure](<./Marketing%20Department%20Project%20Png/plt%20figure.png>)
+![PLT Figure](Marketing%20Department%20Project%20Png/plt%20figure.png)
+
+---
+
+## 📈 Additional Trend Downloads
+Click the links below to view or download the specific trend charts:
+
+* 📥 *Trend Analysis 1:* [Download Link](<./Marketing%20Department%20Project%20Png/download.png>)
+* 📥 *Trend Analysis 2:* [Download Link](<./Marketing%20Department%20Project%20Png/download_1.png>)
+* 📥 *Trend Analysis 3:* [Download Link](<./Marketing%20Department%20Project%20Png/download_2.png>)
+* 📥 *Trend Analysis 4:* [Download Link](<./Marketing%20Department%20Project%20Png/download_3.png>)
+* 📥 *Trend Analysis 5:* [Download Link](<./Marketing%20Department%20Project%20Png/download_4.png>)
 
 ## 🛠️ Technologies Used
 
@@ -82,6 +101,7 @@ Here are some visualizations from the project:
 - **Advanced Predictive Models**: Implement more complex models to improve prediction accuracy of customer responses.
 - **Real-time Data Integration**: Incorporate real-time data to make dynamic marketing decisions.
 - **Dashboard Development**: Create interactive dashboards to visualize customer segments and campaign performance.
+
 
 
 
